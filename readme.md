@@ -1737,6 +1737,12 @@ Utilities and tools to enhance your Claude workflow.
   - Cron-scheduled Markdown skills, self-healing (a health skill detects failures, a repair skill fixes them by PR)
   - Spawns a fleet of clones and ships 70+ Agent Skills across six coding-agent harnesses (Claude Code, Grok, Codex, Pi, Vibe, Kimi)
 
+- [danybgoode/golden-frijoles](https://github.com/danybgoode/golden-frijoles) ![Stars](https://img.shields.io/github/stars/danybgoode/golden-frijoles?style=flat-square)
+  - Agentic product management for Claude Code
+  - Turns ideas into bets with a target and a read date
+  - Ships them behind flags and A/B tests, and reports whether each paid off
+  - Apache-2.0 plugin
+
 ### Monitoring & Observability
 
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) ![Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square)
